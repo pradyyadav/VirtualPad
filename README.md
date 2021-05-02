@@ -14,3 +14,7 @@ A small implementation of OpenCV library to scribble on your screen using your f
 
 Reference video : [AI virtual painter](https://www.youtube.com/watch?v=ZiwZaAVbXQo&t=3180s)
 
+
+## Demo
+![virtual](https://github.com/pradyyadav/VirtualPad/blob/main/images/virtual.gif)
+
